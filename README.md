@@ -4,7 +4,7 @@ A modern full-stack project management application designed for teams to manage 
 
 ---
 
-# 📌 Features
+# Features
 
 - User Authentication & Authorization
 - Create & Manage Projects
@@ -23,7 +23,7 @@ A modern full-stack project management application designed for teams to manage 
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Frontend
 - Next.js
