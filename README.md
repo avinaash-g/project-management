@@ -1,4 +1,4 @@
-# TeamTrack – Full Stack Project Management System
+# COLLABRIX – Full Stack Project Management System
 
 A modern full-stack project management application designed for teams to manage projects, tasks, workflows, and collaboration efficiently.
 
